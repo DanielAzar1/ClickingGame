@@ -43,7 +43,7 @@ public class Scoreboard extends AppCompatActivity {
         else
         {
             score2.setText("DRAW!");
-            score2.setTextColor(Color.rgb(0,0,1));
+            score2.setTextColor(Color.rgb(0,0,0));
         }
     }
 
